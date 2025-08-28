@@ -7,7 +7,7 @@ This project was built to overcome the limitations of standard Large Language Mo
 ---
 
 ## 🚀 Live Demo
-
+loading...
 ![IqbalGPT Demo](assets/demo.gif)
 
 ---
