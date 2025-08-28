@@ -10,7 +10,7 @@ This project was built to overcome the limitations of standard Large Language Mo
 
 *(It is highly recommended to replace this image with a GIF of your running application. You can use a free tool like LICEcap or ScreenToGif to record your screen.)*
 
-![Screenshot of IqbalGPT Application](https://placehold.co/800x450/0f172a/e2e8f0?text=IqbalGPT%20Demo)
+![IqbalGPT Demo](demo.gif)
 
 ---
 
