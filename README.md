@@ -126,15 +126,21 @@ The application will open in your web browser, and you can start chatting!
 
 ---
 
-## ☁️ Deployment on Streamlit Community Cloud
+## 🤝 Contributing
 
-Deploying this application is an excellent way to showcase your work.
+Contributions are welcome! If you have suggestions for improving the chatbot, feel free to open an issue or submit a pull request.
 
-1.  **Push to GitHub:** Create a new repository on GitHub and push your project code. Make sure your `.gitignore` file is correctly set up to exclude your `venv` and `.env` files.
-2.  **Sign Up for Streamlit:** Go to [share.streamlit.io](https://share.streamlit.io/) and sign up using your GitHub account.
-3.  **Deploy:** Click on "New app", select your repository and branch, and point it to your `app.py` file.
-4.  **Add Secrets:** In the "Advanced settings" section, you need to add your Groq API key as a "Secret". The format should be:
-    ```
-    GROQ_API_KEY = "gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-    ```
-5.  **Launch!** Click "Deploy". Streamlit will automatically install all the dependencies from your `requirements.txt` file and launch your application on a public URL.
+1.  **Fork the repository** on GitHub.
+2.  **Create a new branch:** `git checkout -b feature/your-feature-name`
+3.  **Make your changes** and commit them: `git commit -m 'Add some feature'`
+4.  **Push to the branch:** `git push origin feature/your-feature-name`
+5.  **Open a Pull Request.**
+
+---
+
+## 🙏 Credits & Acknowledgements
+
+* **Project Lead & Developer:** Danish Mir
+* **Core Technologies:** This project was made possible by the incredible open-source work from the teams behind [LangChain](https://www.langchain.com/), [Streamlit](https://streamlit.io/), and [Hugging Face](https://huggingface.co/).
+* **LLM Access:** The generative AI capabilities are powered by the high-speed [Groq API](https://groq.com/).
+* **Data Source:** The initial poetry data was sourced from the [Allama Iqbal Poetry Dataset](https://www.kaggle.com/datasets/hassaanali/allama-iqbal-poetry) on Kaggle.
