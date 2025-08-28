@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+torch
+sentence-transformers
+faiss-cpu
+python-dotenv
+langchain-groq
+deep-translator
+tensorflow==2.15.0
+keras==2.15.0
+tensorflow-addons==0.22.0
+urduhack==1.1.1
+romanRekhta
