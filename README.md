@@ -8,9 +8,7 @@ This project was built to overcome the limitations of standard Large Language Mo
 
 ## 🚀 Live Demo
 
-*(It is highly recommended to replace this image with a GIF of your running application. You can use a free tool like LICEcap or ScreenToGif to record your screen.)*
-
-![IqbalGPT Demo](demo.gif)
+![IqbalGPT Demo](assets/demo.git)
 
 ---
 
@@ -82,8 +80,8 @@ Follow these steps to run the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Urdu-English-RAG-Chatbot.git
-cd Urdu-English-RAG-Chatbot
+git clone https://github.com/mirdanish6594/iqbalGPT.git
+cd iqbalGPT
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -140,7 +138,6 @@ Contributions are welcome! If you have suggestions for improving the chatbot, fe
 
 ## 🙏 Credits & Acknowledgements
 
-* **Project Lead & Developer:** Danish Mir
 * **Core Technologies:** This project was made possible by the incredible open-source work from the teams behind [LangChain](https://www.langchain.com/), [Streamlit](https://streamlit.io/), and [Hugging Face](https://huggingface.co/).
 * **LLM Access:** The generative AI capabilities are powered by the high-speed [Groq API](https://groq.com/).
 * **Data Source:** The initial poetry data was sourced from the [Allama Iqbal Poetry Dataset](https://www.kaggle.com/datasets/hassaanali/allama-iqbal-poetry) on Kaggle.
